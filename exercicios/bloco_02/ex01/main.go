@@ -1,4 +1,4 @@
-//Faça um programa que dê bom dia;
+// Faça um programa que dê bom dia;
 
 package main
 

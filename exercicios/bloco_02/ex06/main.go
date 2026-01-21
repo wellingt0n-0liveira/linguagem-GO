@@ -1,5 +1,6 @@
-//6. Faça um programa que exiba a seguinte receita de bolo de chocolate.
-//  Exiba um item por vez, conforme a pessoa aperte “enter”.
+// 6. Faça um programa que exiba a seguinte
+// receita de bolo de chocolate.
+// Exiba um item por vez, conforme a pessoa aperte “enter”.
 
 package main
 

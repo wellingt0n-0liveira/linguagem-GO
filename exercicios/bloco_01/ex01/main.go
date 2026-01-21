@@ -1,9 +1,9 @@
-// faça um programa que dê bom dia;
+// Faça um programa que dê bom dia;
 
 package main
 
 import "fmt"
 
 func main() {
-	fmt.Println("Bom dia!")
+	fmt.Println("Bom dia, carai!")
 }
